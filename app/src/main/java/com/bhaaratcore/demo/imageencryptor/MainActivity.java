@@ -32,6 +32,7 @@ import android.widget.Toast;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
+
 import com.bhaaratcore.roni.simple_image_encryptor.ImageEncryptor;
 
 import java.io.ByteArrayOutputStream;
