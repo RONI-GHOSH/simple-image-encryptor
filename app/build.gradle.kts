@@ -41,5 +41,5 @@ dependencies {
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
 
-    implementation(project(":simple-image-encryptor"))
+
 }
